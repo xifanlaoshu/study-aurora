@@ -9,6 +9,6 @@
 		<!--
 		<a:sql-query service="testcase.HR.test" rootPath="/model/emp/TEST" />
 		--> 
-	</a:init-procedure>
+	</a:init-procedure><a:service-output/>
 	<a:service-output output="/model/emp"/>
 </a:service>

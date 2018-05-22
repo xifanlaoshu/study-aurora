@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path=""/>
-	<classpathentry combineaccessrules="false" kind="src" path="/uncertain"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/c3p0-0.9.1.2.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/commons-fileupload.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/druid-0.2.7.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/freemarker-2.3.18.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/jotm-client.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/mysql-connector-java-5.1.12-bin.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/ojdbc14.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/ow2-jta-1.1-spec.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/rhino1_7R4.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/servlet-api.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/sqlserverjdbc.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/xapool.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_02"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/commons-vfs2-2.1.jar"/>
-	<classpathentry kind="lib" path="/aurora-dependency/Library/commons-net-3.5.jar"/>
+	<classpathentry kind="lib" path="library/aliyun-sdk-oss-2.2.3.jar"/>
+	<classpathentry kind="lib" path="library/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="library/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="library/commons-net-3.5.jar"/>
+	<classpathentry kind="lib" path="library/commons-vfs2-2.1.jar"/>
+	<classpathentry kind="lib" path="library/druid-0.2.7.jar"/>
+	<classpathentry kind="lib" path="library/freemarker-2.3.18.jar"/>
+	<classpathentry kind="lib" path="library/jotm-client.jar"/>
+	<classpathentry kind="lib" path="library/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="library/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="library/ow2-jta-1.1-spec.jar"/>
+	<classpathentry kind="lib" path="library/rhino1_7R4.jar"/>
+	<classpathentry kind="lib" path="library/servlet-api.jar"/>
+	<classpathentry kind="lib" path="library/sqlserverjdbc.jar"/>
+	<classpathentry kind="lib" path="library/xapool.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/study-uncertain"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_21"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

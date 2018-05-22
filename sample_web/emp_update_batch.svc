@@ -19,6 +19,6 @@
 		</a:batch-apply>	
 	-->
 	
-	</a:init-procedure>
+	</a:init-procedure><a:service-output/>
 	<a:service-output output="/parameter" />
 </a:service>
